@@ -1,0 +1,103 @@
+
+body{
+
+    background-color: rgb(219, 240, 233);
+}
+#contendor{
+background-color: aqua;
+/*height:1000px;*/
+
+
+
+}
+#cabecera{
+/*background-color: black;*/
+
+
+}
+#cab1{
+background-color: rgba(189, 89, 53,0.8);
+}
+#cab2{
+
+background-color: rgba(22, 129, 49, 0.8);
+
+}
+#seccion{
+background-color: rgba(165, 63, 63, 0.4);
+/*height:500px;*/
+}
+
+#cont_1{
+background-color: rgba(225, 238, 43,0.6);
+}
+
+#cont_2{
+    
+/*background-color: rgb(53, 75, 53);*/
+}
+
+#cont_3{
+    
+/*background-color: rgb(243, 239, 7);*/
+
+
+}
+
+#cont_4{
+    
+background-color: rgb(225, 235, 225);
+}
+
+#cont_5{
+    
+/*background-color: rgb(161, 59, 144);*/
+}
+#cont_6{
+    
+    background-color: rgb(4, 0, 255);
+    }
+#pie{
+
+background-color: rgba(255, 60, 0,0.7);
+/*height:160px;*/
+
+}
+#pie_1{
+/*background-color: darkorange;*/
+}
+#pie_2{
+   /* background-color: rgb(38, 46, 167);*/
+
+}
+
+.encabezado1{
+
+    margin-top:15px;
+    color: azure;
+}
+.ubutton{
+
+    background-color: rgb(245, 147, 1);
+    
+
+
+}
+.ubutton:hover{
+
+background-color: rgb(143, 19, 245);
+
+}
+.ptext{
+margin-top: 50px;
+color:rgb(34, 35, 82);
+text-align: center;
+
+
+}
+#pief{
+
+color:white;
+font-weight: bold;
+text-align: center;
+}
